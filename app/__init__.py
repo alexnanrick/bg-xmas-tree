@@ -1,5 +1,4 @@
 # app/__init__.py
-
 from gpiozero import LEDBoard
 from gpiozero.tools import random_values
 from signal import pause
